@@ -1,0 +1,507 @@
+@media (max-width:1600px){
+    .form {
+        padding: 66px 0px 0px 0px;
+    }
+}
+@media (max-width:1400px) {
+    .navbar-nav .nav-item .nav-link {
+        margin-right: 28px;
+        font-size: 14px;
+    }
+ 
+    .login-heading {
+        padding: 53px 0px 30px 0px;
+    }
+    .header-bg .text-box h1 {
+        font-size: 43px;
+        line-height: 120.5%;
+    }
+    .register {
+        margin: 25px 0px 33px 0px;
+    }
+    #login {
+        margin: 20px 0px 26px 0px;
+    }    
+
+    h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .btn-member {
+        font-size: 14px;
+    }
+
+    .text-box h4 {
+        font-size: 18px;
+        line-height: 125%;
+    }
+
+    .text-box h3 {
+        font-size: 23px;
+        line-height: 128.5%;
+    }
+
+    .member-sec .text-box h1 {
+        font-size: 46px;
+        line-height: 128.5%;
+    }
+}
+
+@media (max-width:1199px) {
+    .navbar-nav .nav-item .nav-link {
+        margin-right: 22px;
+        font-size: 11px;
+    }
+
+    .header-bg .text-box h1 {
+        font-size: 38px;
+        line-height: 117.5%;
+    }
+    .team-card h2 {
+        font-size: 18px;
+    }
+    .footer ul li a {
+        font-size: 13px;
+    }
+
+    .footer .footer-list h6 {
+        font-size: 13px;
+    }
+
+    .copy-right p {
+        font-size: 12px;
+    }
+    .paragrapgh-size p{
+        font-size: 16px;
+    }
+    .footer .footer-list h5 {
+        font-size: 16px;
+    }
+
+    h2 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+
+    br {
+        display: none;
+    }
+
+    .text-box h4 {
+        font-size: 17px;
+        line-height: 120%;
+    }
+
+    .text-box h3 {
+        font-size: 18px;
+        line-height: 128.5%;
+    }
+
+    .text-box p {
+        font-size: 13px;
+        line-height: 140%;
+    }
+
+    .news-col {
+        padding-right: 16px;
+    }
+
+    .text-box h6 {
+        font-size: 10px;
+    }
+
+    .text-box h5 {
+        font-size: 12px;
+        line-height: 150.5%;
+    }
+
+    .member-sec .text-box h1 {
+        font-size: 44px;
+        line-height: 128.5%;
+    }
+}
+
+@media (max-width:1199px) {
+    .executive-sec .team-card h2 {
+        font-size: 15px;
+    }
+
+    .news-col-2 {
+        padding-left: 16px;
+    }
+
+    h2 {
+        font-size: 25px;
+        line-height: 36px;
+    }
+
+    .esaps-para {
+        font-size: 12px;
+        line-height: 10px;
+    }
+
+    .text-box h4 {
+        font-size: 15px;
+    }
+
+    .member .text-box .size {
+        min-height: 86px;
+    }
+
+    .header-bg .text-box h1 {
+        font-size: 29px;
+        line-height: 117.5%;
+    }
+}
+
+@media (max-width:994px) {
+    .btn-member{
+        max-width: 222px;
+    }
+    .header-bg .text-box h1::after {
+       max-width: 100%;
+        background-size: 60%;
+        background-position: center center;
+    }
+    .team-card h2 {
+        font-size: 16px;
+        line-height: 15px;
+    }
+
+    .navbar-collapse {
+        position: absolute;
+        top: 75px;
+        width: 100%;
+        left: 0px;
+        padding: 0px 30px;
+        background: #124581;
+        margin-top: 10px;
+        z-index: 99;
+    }
+
+    .executive-sec {
+        margin: 53px 0px 49px 0px;
+    }
+
+    .funnel {
+        display: block;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    .sofcape-sec .custom-width {
+        width: 234px;
+    }
+
+    .member-sec .text-box h1 {
+        font-size: 38px;
+    }
+
+    .text-box h4 {
+        font-size: 15px;
+    }
+
+    #webinar-box h3 {
+        font-size: 32px;
+    }
+
+    .member-card-3 {
+        margin-top: 0px;
+    }
+
+    #navbarNav .navbar-nav {
+        padding-left: 0px;
+    }
+
+    .news-row {
+        margin-top: -22px;
+    }
+
+    .societ .text-box h1 {
+        font-size: 36px;
+    }
+
+    .news-col {
+        border-right: none;
+    }
+
+    .search-bar .input-group {
+        margin-bottom: 25px;
+    }
+
+    .tranding-sec {
+        padding: 48px 0px 64px 0px;
+        margin-bottom: 36px;
+    }
+
+    .categories {
+        margin-bottom: 31px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .road__item {
+        margin-bottom: 50px;
+    }
+}
+
+@media (min-width: 992px) {
+    .road__item {
+        padding-left: 106px;
+    }
+
+    .road__item-title {
+        left: -230px;
+        position: absolute;
+        text-align: right;
+        top: -1px;
+        width: 200px;
+    }
+
+}
+
+@media (min-width: 768px) {
+    .road__item {
+        padding-left: 80px;
+    }
+
+}
+
+@media (max-width:768px) {
+    .text-box h3 {
+        font-size: 16px;
+    }
+    .map iframe{
+        height:544px;
+    }
+
+    .categories .categories-space h4 {
+        min-height: 46px;
+    }
+    .sofcape-sec .custom-width {
+        width: 100%;
+    }
+
+    #webinar-box h3 {
+        font-size: 28px;
+    }
+
+    .map .text-box p {
+        font-size: 15px;
+    }
+
+    .sofcape-sec {
+        margin-top: 24px;
+    }
+
+    .accordion-sec .accordion-button {
+        font-size: 16px;
+
+    }
+
+    .societ .text-box h1 {
+        font-size: 33px;
+    }
+
+    .team-box {
+        padding-top: 20px;
+    }
+
+    .executive-sec .team-card::after {
+        height: 30%;
+    }
+
+    .map .text-box h6 {
+        font-size: 14px;
+    }
+
+    .news-sec .text-box h3 {
+        padding: 20px 0px 26px 0px;
+    }
+
+    .paragrapgh-space {
+        padding: 16px 0px 21px 0px;
+    }
+
+    .btn-list {
+        margin-top: 20px;
+    }
+
+    .text-box h4 {
+        font-size: 15px;
+    }
+
+    .news-row {
+        padding: 55px 0px 37px 0px;
+    }
+
+    .header-bg .text-box h1::after {
+        top: -32px;
+    }
+
+    .esaps-sec {
+        padding: 63px 0px 63px 0px;
+    }
+
+    .force-sec #force-para .text-box p {
+        max-width: 100%;
+    }
+
+    #force-para {
+        padding-top: 30px;
+    }
+
+    .member-sec {
+        margin-top: 45px;
+    }
+
+    h2 {
+        font-size: 17px;
+    }
+
+    .member-sec .text-box h1 {
+        font-size: 34px;
+    }
+
+    .member-card {
+        padding: 28px 40px;
+        height: 100%;
+    }
+
+    .member-card-2 {
+        height: 100%;
+    }
+
+    .member-card-3 {
+        height: 100%;
+    }
+
+    .member-sec .text-box {
+        margin-top: 29px;
+    }
+
+    .president-sec {
+        margin: 45px 0px 45px 0px;
+    }
+
+    .btn-primary {
+        font-size: 11px;
+        padding: 6px 18px;
+    }
+
+    .dear-paragraph {
+        padding: 8px 0px 24px 0px;
+    }
+
+    .btn-default {
+        font-size: 11px;
+        padding: 6px 18px;
+    }
+
+    .sponser-sec #sponser {
+        margin: 42px 0px 35px 0px;
+    }
+
+    #seperate {
+        border-top: 1px solid #D0D7DD;
+        border-bottom: 1px solid #D0D7DD;
+        border-right: none;
+        border-left: none;
+    }
+
+    .header-bg .text-box h1 {
+        font-size: 25px;
+        line-height: 117.5%;
+    }
+
+    .member-sec ul {
+        margin-top: 40px;
+    }
+
+    .footer .footer-list h5 {
+        font-size: 13px;
+    }
+
+    .member .form-select {
+        font-size: 14px;
+    }
+
+    .member h3 {
+        font-size: 15px;
+    }
+
+    .road__item-content .text-box h3 {
+        min-height: 21px;
+    }
+
+    .road_item_space {
+        margin-top: 30px;
+    }
+
+    .road__item:after {
+        height: calc(100% + 48px);
+        top: 3px;
+    }
+
+    .search-bar .form-select {
+        font-size: 14px;
+    }
+
+    .societ .text-box h1 {
+        padding: 38px 0px 71px 0px;
+    }
+
+    .team-sec {
+        margin-top: 35px;
+    }
+
+    .team-card h2 {
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .webinars-sec {
+        margin: 17px 0px 39px 0px;
+    }
+    .executive-sec .team-card h2 {
+        line-height: 24px;
+    }
+    .esaps-para {
+        line-height: 14px;
+    }
+    #scroll-bar form {
+        max-width: 100%;
+    }
+    .road__item:before {
+        border: 2px solid #0075FF;
+        height: 20px;
+        width: 20px;
+    }
+    .road__item:after {
+        border-left: 2px solid #0075FF;
+        left: 9px;
+    }
+    .paragrapgh-size p{
+        font-size: 14px;
+    }
+    .categories .categories-space h4 {
+        min-height: 70px;
+    }
+    
+}
+@media (max-width:576px) {
+    .search-bar #basic-addon1 {
+       display: none;
+    }  
+    .search-bar .form-control {
+        border-radius:6px !important;
+    }
+    .map-box {
+        max-width: 100%;
+        width: 80%;
+    }
+
+}
